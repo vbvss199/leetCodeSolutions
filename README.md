@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/vbvss199/leetCodeSolutions/tree/master/0051-n-queens) |
+| [0189-rotate-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/vbvss199/leetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/vbvss199/leetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -26,4 +27,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
