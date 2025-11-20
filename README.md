@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/vbvss199/leetCodeSolutions/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/vbvss199/leetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/vbvss199/leetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vbvss199/leetCodeSolutions/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
