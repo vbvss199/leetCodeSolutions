@@ -1,9 +1,9 @@
 class Solution:
     def rev(self,nums,left,right):
-            while left <right:
-                nums[left], nums[right]=nums[right], nums[left]
-                left=left+1
-                right=right-1
+        while(left < right):
+            nums[left],nums[right]=nums[right],nums[left]
+            left=left+1
+            right=right-1
     def rotate(self, nums: List[int], k: int) -> None:
         n=len(nums)
         k=k%n
