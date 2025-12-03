@@ -15,3 +15,21 @@ class Solution:
             else:
                 presummap[prefixsum] = 1
         return count
+
+        # lets try the two pointer approach
+        # left=0 
+        # right=0
+        # sum =nums[0]
+        # count=0
+        # while(right<len(nums)):
+        #     while(left<=right and sum>k):
+        #         sum=sum-nums[left]
+        #         left=left+1 
+        #     if(sum==k):
+        #         count=count+1
+        #     right=right+1
+        #     if(right<len(nums)):
+        #         sum=sum+nums[right]
+        # return count
+
+# the above 2nd method will work only if there are positive numbers in the arry
