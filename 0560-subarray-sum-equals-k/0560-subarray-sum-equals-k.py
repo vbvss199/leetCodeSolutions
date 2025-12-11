@@ -1,15 +1,19 @@
 
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        presummap = {0: 1}
+        presummap = {}
+        presummap[0]=1
         prefixsum = 0
         count = 0
         for i in range(0, len(nums)):
+            # first step the intiial sum
             prefixsum = prefixsum + nums[i]
             # check if there exists any other exists like in the map then again add the sum with the difference of the indices
             # now check the second condition for the remaining sum -k
+            # check for prefixsum-k
             if prefixsum - k in presummap:
                 count += presummap[prefixsum - k]
+            # else addd the current prefixsum to the map
             if prefixsum in presummap:
                 presummap[prefixsum] += 1
             else:
