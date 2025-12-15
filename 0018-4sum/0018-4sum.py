@@ -1,4 +1,5 @@
 class Solution:
+    # O(n^3 ) time complexity using hashing and
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
         # uniqueList=[]
         uniqueSet=set()
@@ -6,6 +7,7 @@ class Solution:
             for j in range(i+1,len(nums)):
                 freqMap={}
                 for k in range(j+1,len(nums)):
+                    # carefull dont accumulate
                     sum=nums[i]+nums[j]+nums[k]
                     kterm=target-sum
                     if kterm in freqMap:
