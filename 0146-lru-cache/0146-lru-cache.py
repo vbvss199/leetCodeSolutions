@@ -41,11 +41,12 @@ class LRUCache:
             if len(self.cacheMap)==self.capacity:
                 # need to remove the tail connection, lru is the address here or the value of the hashmap
                 lru=self.tail.prev
+                del self.cacheMap[lru.key]
                 self._remove(lru)
                 # we need to remove the connection or reference as well !
                 # self.cacheMap[lru.key] = None 
-                # deleting the node 
-                del self.cacheMap[lru.key]
+                # deleting the node  refernce from the map 
+
             # now create a new node and start connecting after the head 
             new_node=Node(key,value)
             self.cacheMap[key]=new_node
