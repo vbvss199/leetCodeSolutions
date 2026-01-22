@@ -13,4 +13,5 @@ class Solution:
         node.val=node.next.val
         node.next=node.next.next
 
-        
+        # here we are not deleting instead we r just changing the links a->b->c->d
+        # then it becomes a->c->c->d if in case b is need to be remvoed 
