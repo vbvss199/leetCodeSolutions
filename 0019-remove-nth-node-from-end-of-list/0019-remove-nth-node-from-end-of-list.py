@@ -16,11 +16,11 @@ class Solution:
         if n == length:
             return head.next
         else:
-            count=1
+            count=0
             temp=head
             prev=None
             while(temp!=None):
-                if count == length - n + 1:
+                if count == length - n :
                     prev.next = temp.next
                     break
                 prev = temp         
