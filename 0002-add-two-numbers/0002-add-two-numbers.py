@@ -6,22 +6,42 @@
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         # given two linked listsl1 and l2 
-        temp1=l1
-        temp2=l2
-        var1=''
-        var2=''
-        while(temp1!=None):
-            var1=var1+str(temp1.val)
-            temp1=temp1.next
-        while(temp2!=None):
-            var2=var2+str(temp2.val)
-            temp2=temp2.next
-        k=int(var1[::-1]) + int(var2[::-1])
-        dummy = ListNode(0)
-        curr = dummy
+        # temp1=l1
+        # temp2=l2
+        # var1=''
+        # var2=''
+        # while(temp1!=None):
+        #     var1=var1+str(temp1.val)
+        #     temp1=temp1.next
+        # while(temp2!=None):
+        #     var2=var2+str(temp2.val)
+        #     temp2=temp2.next
+        # k=int(var1[::-1]) + int(var2[::-1])
+        
+        # dummy = ListNode(0)
+        # curr = dummy
+        # for ch in str(k)[::-1]:
+        #     curr.next = ListNode(int(ch))
+        #     curr = curr.next
 
-        for ch in str(k)[::-1]:
-            curr.next = ListNode(int(ch))
-            curr = curr.next
+        # return dummy.next
 
+        # lets use the optimised approach :
+        dummy=ListNode(0)
+        current=dummy
+        carry=0
+        while l1 or l2 or carry:
+            v1=l1.val if l1 else 0
+            v2=l2.val if l2 else 0
+            
+            total=v1+v2+carry
+            carry=total//10
+
+            current.next=ListNode(total%10)
+            current=current.next
+
+            if l1:
+                l1=l1.next
+            if l2:
+                l2=l2.next
         return dummy.next
