@@ -4,7 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def merge(self,nums,start,mid,end)-> List[int]:
+    def merge(self,nums,start,mid,end):
         temp=[]
         i=start
         j=mid+1
@@ -23,15 +23,15 @@ class Solution:
             j=j+1
         for k in range(len(temp)):
             nums[start+k]=temp[k]
-        return nums
+        # return nums
         
-    def mergesort(self,nums,start,end)-> List[int]:
+    def mergesort(self,nums,start,end):
         if (start < end):
             mid=(start+end)//2
             self.mergesort(nums,start,mid)
             self.mergesort(nums,mid+1,end)
             self.merge(nums, start, mid, end)
-            return nums
+            # return nums
     
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head:
