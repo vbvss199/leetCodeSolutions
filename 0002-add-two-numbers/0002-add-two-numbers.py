@@ -30,18 +30,38 @@ class Solution:
         dummy=ListNode(0)
         current=dummy
         carry=0
-        while l1 or l2 or carry:
-            v1=l1.val if l1 else 0
-            v2=l2.val if l2 else 0
+        # while l1 or l2 or carry:
+        #     v1=l1.val if l1 else 0
+        #     v2=l2.val if l2 else 0
             
-            total=v1+v2+carry
-            carry=total//10
+        #     total=v1+v2+carry
+        #     carry=total//10
 
-            current.next=ListNode(total%10)
+        #     current.next=ListNode(total%10)
+        #     current=current.next
+
+        #     if l1:
+        #         l1=l1.next
+        #     if l2:
+        #         l2=l2.next
+        # return dummy.next
+        temp1=l1
+        temp2=l2
+        while(temp1!=None or temp2!=None):
+            sum=carry
+            if(temp1):
+                sum=sum+temp1.val
+            if(temp2):
+                sum=sum+temp2.val
+            new_node=ListNode(sum%10)
+            carry=sum//10
+            current.next=new_node
             current=current.next
-
-            if l1:
-                l1=l1.next
-            if l2:
-                l2=l2.next
+            if(temp1):
+                temp1=temp1.next
+            if(temp2):
+                temp2=temp2.next
+        if(carry):
+            new_node=ListNode(carry)
+            current.next=new_node
         return dummy.next
