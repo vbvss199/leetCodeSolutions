@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vbvss199/leetCodeSolutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/vbvss199/leetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vbvss199/leetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vbvss199/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vbvss199/leetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vbvss199/leetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vbvss199/leetCodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0229-majority-element-ii) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vbvss199/leetCodeSolutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vbvss199/leetCodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/vbvss199/leetCodeSolutions/tree/master/0493-reverse-pairs) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/vbvss199/leetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vbvss199/leetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/vbvss199/leetCodeSolutions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0328-odd-even-linked-list) |
