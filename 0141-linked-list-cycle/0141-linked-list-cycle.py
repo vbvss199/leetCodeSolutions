@@ -7,11 +7,21 @@
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         # pos will be there but we need to compare!
-        slow=head
-        fast=head
-        while fast and fast.next:
-            slow=slow.next
-            fast=fast.next.next
-            if(slow==fast):
+        # slow=head
+        # fast=head
+        # while fast and fast.next:
+        #     slow=slow.next
+        #     fast=fast.next.next
+        #     if(slow==fast):
+        #         return True
+        # return False
+
+        # 2nd method using the visited
+        visited=set()
+        while(head):
+            if head in visited:
                 return True
+            else:
+                visited.add(head)
+                head=head.next
         return False
