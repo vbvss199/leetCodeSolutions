@@ -27,10 +27,10 @@ class Solution:
             slow=slow.next
             fast=fast.next.next
             if(slow==fast):
-                break
-        slow=head
-        while(fast and fast.next):
-            if(slow==fast):
-                return fast
-            slow=slow.next
-            fast=fast.next
+                slow=head
+                while(slow!=fast):
+                    slow=slow.next
+                    fast=fast.next
+                if(slow==fast):
+                    return fast
+        return None
