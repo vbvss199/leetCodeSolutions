@@ -46,7 +46,8 @@ class Solution:
 
             left.next=right
 
-            # after that link the lists so 
+        #   after the first iteration the link looks like [1,5] [2,3] and [4]
+        # so here we need to connect [1,5] with [2,3 ] 5 to 2 whcih is right.next and left.next 
             right.next=leftnext
 
             left=leftnext
