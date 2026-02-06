@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vbvss199/leetCodeSolutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/vbvss199/leetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/vbvss199/leetCodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/vbvss199/leetCodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0268-missing-number) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vbvss199/leetCodeSolutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Divide and Conquer
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/vbvss199/leetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/vbvss199/leetCodeSolutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
