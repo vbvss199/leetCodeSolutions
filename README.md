@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vbvss199/leetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/vbvss199/leetCodeSolutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/vbvss199/leetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0706-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/vbvss199/leetCodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0912-sort-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vbvss199/leetCodeSolutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/vbvss199/leetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/vbvss199/leetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/vbvss199/leetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0706-design-hashmap) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vbvss199/leetCodeSolutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vbvss199/leetCodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/vbvss199/leetCodeSolutions/tree/master/0355-design-twitter) |
+| [0705-design-hashset](https://github.com/vbvss199/leetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/vbvss199/leetCodeSolutions/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/vbvss199/leetCodeSolutions/tree/master/0355-design-twitter) |
+| [0705-design-hashset](https://github.com/vbvss199/leetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List
 |  |
@@ -306,5 +310,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/vbvss199/leetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
