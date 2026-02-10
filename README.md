@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0912-sort-an-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vbvss199/leetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vbvss199/leetCodeSolutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1472-design-browser-history](https://github.com/vbvss199/leetCodeSolutions/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vbvss199/leetCodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vbvss199/leetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/vbvss199/leetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/vbvss199/leetCodeSolutions/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -302,18 +304,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/vbvss199/leetCodeSolutions/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/vbvss199/leetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0706-design-hashmap) |
+| [1472-design-browser-history](https://github.com/vbvss199/leetCodeSolutions/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vbvss199/leetCodeSolutions/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/vbvss199/leetCodeSolutions/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/vbvss199/leetCodeSolutions/tree/master/1472-design-browser-history) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vbvss199/leetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0706-design-hashmap) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vbvss199/leetCodeSolutions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
