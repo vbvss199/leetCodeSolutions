@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/vbvss199/leetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/vbvss199/leetCodeSolutions/tree/master/1472-design-browser-history) |
 ## Hash Function
@@ -325,4 +326,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/vbvss199/leetCodeSolutions/tree/master/1472-design-browser-history) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/vbvss199/leetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/vbvss199/leetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/vbvss199/leetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
