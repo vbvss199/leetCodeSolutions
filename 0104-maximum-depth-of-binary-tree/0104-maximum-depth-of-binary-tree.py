@@ -8,20 +8,27 @@ from collections import deque
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         # lets use the level order traversal and reurn the length of the levels array
-        levels=[]
+        # levels=[]
+        # if root is None:
+        #     return len(levels)
+        # else:
+        #     queue=deque()
+        #     queue.append(root)
+        #     while(queue):
+        #         level=[]
+        #         for _ in range(len(queue)):
+        #             node=queue.popleft()
+        #             level.append(node.val)
+        #             if(node.left):
+        #                 queue.append(node.left)
+        #             if(node.right):
+        #                 queue.append(node.right)
+        #         levels.append(level)
+        # return len(levels)
+
+        # the above one consuming the time complexity of O(n) due to the queue data structre 
         if root is None:
-            return len(levels)
-        else:
-            queue=deque()
-            queue.append(root)
-            while(queue):
-                level=[]
-                for _ in range(len(queue)):
-                    node=queue.popleft()
-                    level.append(node.val)
-                    if(node.left):
-                        queue.append(node.left)
-                    if(node.right):
-                        queue.append(node.right)
-                levels.append(level)
-        return len(levels)
+            return 0
+        leftheight=self.maxDepth(root.left)
+        rightheight=self.maxDepth(root.right)
+        return 1 + max(leftheight,rightheight)
