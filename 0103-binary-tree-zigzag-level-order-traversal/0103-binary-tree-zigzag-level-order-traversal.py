@@ -15,16 +15,19 @@ class Solution:
         levels=[]
         left_to_right=True
         while queue:
-            level=[]
-            for _ in range(len(queue)):
+            size=len(queue)
+            level=[0]*size
+            for i in range(size):
                 node=queue.popleft()
-                level.append(node.val)
+                index=i if left_to_right else size-1-i
+                level[index]=node.val
                 if node.left:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            if not left_to_right:
-                level.reverse()
+            # the core logic like flipping alternatively 
+            # if not left_to_right:
+            #     level.reverse()
             levels.append(level)
             left_to_right=not left_to_right
         return levels
