@@ -12,12 +12,19 @@ class Solution:
         queue=deque()
         queue.append((root,0))
         while(queue):
-            first_index=queue[0][1]
-            level=[]
+            min_index = min(index for node, index in queue)
             size=len(queue)
-            for _ in range(size):
+            for i in range(size):
+                first_index=last_index=0
                 node,index=queue.popleft()
-                last_index = index
+                # normalisation to prevent the overflow !
+                index=index-min_index
+                
+                if i==0:
+                    first_index=index
+                if i==size-1:
+                    last_index=index
+
                 if node.left:
                     queue.append((node.left,2*index+1))
                 if node.right:
