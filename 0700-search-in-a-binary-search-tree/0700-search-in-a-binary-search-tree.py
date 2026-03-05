@@ -9,10 +9,6 @@ class Solution:
         if root is None:
             return None
         curr=root
-        while curr is not None:
-            if(curr.val==val):
-                return curr
-            if curr.val<val:
-                curr=curr.right
-            else:
-                curr=curr.left
+        while (curr is not None) and (curr.val!=val):
+            curr=curr.left if val<curr.val else curr.right
+        return curr  
