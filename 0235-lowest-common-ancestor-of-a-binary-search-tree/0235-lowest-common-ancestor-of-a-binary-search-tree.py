@@ -11,6 +11,7 @@ class Solution:
         if root is None:
             return None
         current=root
+        # check where the tree may fail and stop once when the condition is met 
         if ((p.val<current.val) and (q.val<current.val)):
             return self.lowestCommonAncestor(current.left,p,q)
         if ((p.val > current.val) and (q.val > current.val)):
