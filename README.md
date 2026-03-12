@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vbvss199/leetCodeSolutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vbvss199/leetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vbvss199/leetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0143-reorder-list) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vbvss199/leetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/vbvss199/leetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vbvss199/leetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/vbvss199/leetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vbvss199/leetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
