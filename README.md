@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vbvss199/leetCodeSolutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/vbvss199/leetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0706-design-hashmap) |
+| [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/vbvss199/leetCodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0912-sort-an-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vbvss199/leetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vbvss199/leetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/vbvss199/leetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0706-design-hashmap) |
+| [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vbvss199/leetCodeSolutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vbvss199/leetCodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vbvss199/leetCodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vbvss199/leetCodeSolutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/vbvss199/leetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vbvss199/leetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vbvss199/leetCodeSolutions/tree/master/0704-binary-search) |
+| [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/vbvss199/leetCodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vbvss199/leetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vbvss199/leetCodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vbvss199/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/vbvss199/leetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 | [0912-sort-an-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vbvss199/leetCodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
@@ -249,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/vbvss199/leetCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0509-fibonacci-number) |
+| [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 ## Simulation
 |  |
 | ------- |
@@ -500,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/vbvss199/leetCodeSolutions/tree/master/1045-customers-who-bought-all-products) |
 | [1729-find-followers-count](https://github.com/vbvss199/leetCodeSolutions/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/vbvss199/leetCodeSolutions/tree/master/1741-find-total-time-spent-by-each-employee) |
+## Trie
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
