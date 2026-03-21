@@ -7,7 +7,7 @@ class Solution:
         if arr[index] <= target:
             ds.append(arr[index])
             self.findCombinationSum(index, arr,target - arr[index], answers, ds)
-            # backtracking
+            # backtracking remove the element while backtracking !!!
             ds.pop()
         self.findCombinationSum(index + 1,arr, target, answers, ds)
 
