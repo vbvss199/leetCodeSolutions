@@ -12,10 +12,11 @@ class Solution:
             return
         for i in range(idx,len(s)):
             if isPalindrome(s,idx,i):
+                # append that sub string into the array!
                 path.append(s[idx:i+1])
                 self.generatePartitions(i+1,s,path,results)
                 path.pop()
-        return results
+        return results 
     def partition(self, s: str) -> List[List[str]]:
         # partition the given string in such a way that each string should be a palindrome in the lists
         # partitioning again and again so we go with the recursion 
