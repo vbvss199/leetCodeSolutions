@@ -38,20 +38,43 @@ class Solution:
         # and check whether the number of zeros <=2 and the moment it is > k then we cannot consider the sub array , then it is where sliding window comes into the picture ! 
         # move l till it sees zeros when l=0 then remove from zeros until it is equal to k 
         # the length which is l-k+1
+        # APPROACH 2
+        # maxLength=0
+        # right=0
+        # left=0
+        # zeros=0
+        # while(right<len(nums)):
+        #     if(nums[right]==0):
+        #         zeros=zeros+1
+        #     # check if it exceeds move left such that it should moved in such a way 
+        #     while(zeros>k):
+        #         if(nums[left]==0):
+        #             zeros=zeros-1
+        #         left=left+1
+        #     if zeros<=k:
+        #         # calculate the length 
+        #         maxLength=max(maxLength,right-left+1)
+        #     right=right+1
+        # return maxLength 
+
+        # the optimal solution will involve removing the sliding window 
+        # same approach but need to remove the internal while loop for better TC 
+        # once we reach zeros to 3 then we move the left not loosing the maxLength , if zeros are >2 then dont update the length 
+        # update the length only if the zeros <=2 else increment left and check everytime if it is equal to zero !!!!
         maxLength=0
         right=0
         left=0
         zeros=0
-        while(right<len(nums)):
+        while (right<len(nums)):
             if(nums[right]==0):
                 zeros=zeros+1
-            # check if it exceeds move left such that it should moved in such a way 
-            while(zeros>k):
+            if(zeros>k):
                 if(nums[left]==0):
+                    # remove the zero from zeros
                     zeros=zeros-1
                 left=left+1
-            if zeros<=k:
-                # calculate the length 
+                # check the zeros length if it is < k then update the maxLength else no 
+            if(zeros<=k):
                 maxLength=max(maxLength,right-left+1)
             right=right+1
-        return maxLength 
+        return maxLength
