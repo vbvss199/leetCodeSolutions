@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/vbvss199/leetCodeSolutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/vbvss199/leetCodeSolutions/tree/master/0075-sort-colors) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vbvss199/leetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vbvss199/leetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/vbvss199/leetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/vbvss199/leetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vbvss199/leetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -567,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vbvss199/leetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vbvss199/leetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vbvss199/leetCodeSolutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
