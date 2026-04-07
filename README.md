@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0706-design-hashmap) |
 | [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/vbvss199/leetCodeSolutions/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/vbvss199/leetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vbvss199/leetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vbvss199/leetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0706-design-hashmap) |
 | [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vbvss199/leetCodeSolutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/vbvss199/leetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vbvss199/leetCodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vbvss199/leetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vbvss199/leetCodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vbvss199/leetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/vbvss199/leetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/vbvss199/leetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vbvss199/leetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vbvss199/leetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vbvss199/leetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
