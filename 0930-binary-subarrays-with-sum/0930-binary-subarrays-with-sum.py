@@ -12,12 +12,32 @@ class Solution:
         # now we need to find the total number of sub array where the sum of the sub array is 2
 
         # lets fucking solve this 
-        prefix_sum=0
-        hashMap={0:1}
-        count=0
-        for num in nums:
-            prefix_sum+=num
-            if prefix_sum - goal in hashMap:
-                count+=hashMap[prefix_sum-goal] 
-            hashMap[prefix_sum] = hashMap.get(prefix_sum, 0) + 1
-        return count
+        # prefix_sum=0
+        # hashMap={0:1}
+        # count=0
+        # for num in nums:
+        #     prefix_sum+=num
+        #     if prefix_sum - goal in hashMap:
+        #         count+=hashMap[prefix_sum-goal] 
+        #     hashMap[prefix_sum] = hashMap.get(prefix_sum, 0) + 1
+        # return count
+        # this can be optimised using the two pointer ! 
+
+        def atMost(nums, goal):
+            if goal < 0:
+                return 0
+
+            left = 0
+            sum = 0
+            count = 0
+
+            for right in range(len(nums)):
+                sum += nums[right]
+                while sum > goal:
+                    sum -= nums[left]
+                    left += 1
+                count += (right - left + 1)
+
+            return count
+        return atMost(nums, goal) - atMost(nums, goal - 1)
+        # goal+goal-1 which is 
