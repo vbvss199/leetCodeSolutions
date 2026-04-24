@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vbvss199/leetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vbvss199/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/vbvss199/leetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vbvss199/leetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/vbvss199/leetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vbvss199/leetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vbvss199/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/vbvss199/leetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vbvss199/leetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vbvss199/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/vbvss199/leetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/vbvss199/leetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 | [0912-sort-an-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vbvss199/leetCodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vbvss199/leetCodeSolutions/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/vbvss199/leetCodeSolutions/tree/master/0455-assign-cookies) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/vbvss199/leetCodeSolutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Sliding Window
 |  |
