@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/vbvss199/leetCodeSolutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vbvss199/leetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/vbvss199/leetCodeSolutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vbvss199/leetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vbvss199/leetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vbvss199/leetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vbvss199/leetCodeSolutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vbvss199/leetCodeSolutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/vbvss199/leetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vbvss199/leetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vbvss199/leetCodeSolutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/vbvss199/leetCodeSolutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vbvss199/leetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vbvss199/leetCodeSolutions/tree/master/0860-lemonade-change) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/vbvss199/leetCodeSolutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
