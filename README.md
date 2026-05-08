@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vbvss199/leetCodeSolutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/vbvss199/leetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vbvss199/leetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vbvss199/leetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/vbvss199/leetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/vbvss199/leetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 ## Simulation
 |  |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vbvss199/leetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vbvss199/leetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [1472-design-browser-history](https://github.com/vbvss199/leetCodeSolutions/tree/master/1472-design-browser-history) |
 ## Hash Function
 |  |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vbvss199/leetCodeSolutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/vbvss199/leetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vbvss199/leetCodeSolutions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/vbvss199/leetCodeSolutions/tree/master/0860-lemonade-change) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/vbvss199/leetCodeSolutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Sliding Window
