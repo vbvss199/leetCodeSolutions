@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/vbvss199/leetCodeSolutions/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vbvss199/leetCodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
+| [1710-maximum-units-on-a-truck](https://github.com/vbvss199/leetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vbvss199/leetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vbvss199/leetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vbvss199/leetCodeSolutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 | [0912-sort-an-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vbvss199/leetCodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1710-maximum-units-on-a-truck](https://github.com/vbvss199/leetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting
 |  |
 | ------- |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vbvss199/leetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/vbvss199/leetCodeSolutions/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/vbvss199/leetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/vbvss199/leetCodeSolutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Sliding Window
 |  |
