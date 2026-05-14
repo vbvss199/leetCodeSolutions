@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vbvss199/leetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/vbvss199/leetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/vbvss199/leetCodeSolutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/vbvss199/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/vbvss199/leetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -638,4 +639,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/vbvss199/leetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vbvss199/leetCodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vbvss199/leetCodeSolutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
