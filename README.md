@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vbvss199/leetCodeSolutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/vbvss199/leetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0706-design-hashmap) |
+| [0720-longest-word-in-dictionary](https://github.com/vbvss199/leetCodeSolutions/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/vbvss199/leetCodeSolutions/tree/master/0733-flood-fill) |
 | [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 | [0860-lemonade-change](https://github.com/vbvss199/leetCodeSolutions/tree/master/0860-lemonade-change) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vbvss199/leetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/vbvss199/leetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0706-design-hashmap) |
+| [0720-longest-word-in-dictionary](https://github.com/vbvss199/leetCodeSolutions/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vbvss199/leetCodeSolutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/vbvss199/leetCodeSolutions/tree/master/0904-fruit-into-baskets) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vbvss199/leetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vbvss199/leetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
+| [0720-longest-word-in-dictionary](https://github.com/vbvss199/leetCodeSolutions/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vbvss199/leetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vbvss199/leetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/vbvss199/leetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/vbvss199/leetCodeSolutions/tree/master/0455-assign-cookies) |
+| [0720-longest-word-in-dictionary](https://github.com/vbvss199/leetCodeSolutions/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 | [0912-sort-an-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vbvss199/leetCodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0014-longest-common-prefix) |
+| [0720-longest-word-in-dictionary](https://github.com/vbvss199/leetCodeSolutions/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
 ## Greedy
 |  |
