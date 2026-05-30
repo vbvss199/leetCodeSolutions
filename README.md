@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vbvss199/leetCodeSolutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vbvss199/leetCodeSolutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vbvss199/leetCodeSolutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0090-subsets-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/vbvss199/leetCodeSolutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vbvss199/leetCodeSolutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vbvss199/leetCodeSolutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/vbvss199/leetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/vbvss199/leetCodeSolutions/tree/master/0257-binary-tree-paths) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/vbvss199/leetCodeSolutions/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/vbvss199/leetCodeSolutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vbvss199/leetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/vbvss199/leetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0179-largest-number) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vbvss199/leetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/vbvss199/leetCodeSolutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vbvss199/leetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/vbvss199/leetCodeSolutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vbvss199/leetCodeSolutions/tree/master/0994-rotting-oranges) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vbvss199/leetCodeSolutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vbvss199/leetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/vbvss199/leetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vbvss199/leetCodeSolutions/tree/master/0100-same-tree) |
