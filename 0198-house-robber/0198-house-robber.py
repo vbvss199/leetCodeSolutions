@@ -12,7 +12,7 @@ class Solution:
         # if we pick we take sum=a[index] and not pick will be 0+
         # and one more thing if we check if i==0 then print it , we start from f(nums,n) and if we do i==n then it is f(nums,0)
         # to store the occurances !!!
-        dp={}
+        dp=[-1]*len(nums)
         return self.maxSubSequence(nums,0,dp)
     # def maxSubSequence(self,nums: List[int],i:int) -> int:
     #     if(i>=len(nums)):
@@ -31,7 +31,8 @@ class Solution:
         if(i>=len(nums)):
             #if we reach the end theers nothung 
             return 0
-        if i in dp:
+        # there will be a some logic like if dp[i]!=-1 then return dp[i]
+        if(dp[i]!=-1):
             return dp[i]
         #and track the sum using the pick and no pick variable 
         pick=nums[i]+self.maxSubSequence(nums,i+2,dp)
