@@ -14,7 +14,7 @@ class Solution:
         queue=[(1,1)]
         seen=set()
         while queue:
-            stone_num,k=queue.pop(0)
+            stone_num,k=queue.pop()
             if stone_num==stones[-1]:
                 return True 
             # now search neighbours
