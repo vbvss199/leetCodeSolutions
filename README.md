@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/vbvss199/leetCodeSolutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vbvss199/leetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/vbvss199/leetCodeSolutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0509-fibonacci-number) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vbvss199/leetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
@@ -691,4 +693,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vbvss199/leetCodeSolutions/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
