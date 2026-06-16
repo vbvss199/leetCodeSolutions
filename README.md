@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/vbvss199/leetCodeSolutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/vbvss199/leetCodeSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0047-permutations-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vbvss199/leetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/vbvss199/leetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/vbvss199/leetCodeSolutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/vbvss199/leetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vbvss199/leetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vbvss199/leetCodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
