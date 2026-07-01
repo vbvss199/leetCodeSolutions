@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vbvss199/leetCodeSolutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/vbvss199/leetCodeSolutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vbvss199/leetCodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/vbvss199/leetCodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vbvss199/leetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vbvss199/leetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vbvss199/leetCodeSolutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/vbvss199/leetCodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vbvss199/leetCodeSolutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/vbvss199/leetCodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
