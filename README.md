@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vbvss199/leetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vbvss199/leetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/vbvss199/leetCodeSolutions/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vbvss199/leetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vbvss199/leetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/vbvss199/leetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/vbvss199/leetCodeSolutions/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/vbvss199/leetCodeSolutions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vbvss199/leetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
