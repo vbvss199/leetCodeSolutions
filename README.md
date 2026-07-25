@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vbvss199/leetCodeSolutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/vbvss199/leetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vbvss199/leetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/vbvss199/leetCodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0720-longest-word-in-dictionary](https://github.com/vbvss199/leetCodeSolutions/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vbvss199/leetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/vbvss199/leetCodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
