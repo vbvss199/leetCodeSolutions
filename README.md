@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vbvss199/leetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vbvss199/leetCodeSolutions/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vbvss199/leetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vbvss199/leetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/vbvss199/leetCodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vbvss199/leetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vbvss199/leetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [1472-design-browser-history](https://github.com/vbvss199/leetCodeSolutions/tree/master/1472-design-browser-history) |
 ## Hash Function
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vbvss199/leetCodeSolutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/vbvss199/leetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vbvss199/leetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
@@ -729,4 +732,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/0258-add-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
