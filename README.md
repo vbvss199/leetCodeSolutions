@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/vbvss199/leetCodeSolutions/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vbvss199/leetCodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vbvss199/leetCodeSolutions/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/vbvss199/leetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vbvss199/leetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/vbvss199/leetCodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vbvss199/leetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
