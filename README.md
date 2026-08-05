@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vbvss199/leetCodeSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/vbvss199/leetCodeSolutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/vbvss199/leetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vbvss199/leetCodeSolutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vbvss199/leetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0054-spiral-matrix) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vbvss199/leetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vbvss199/leetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/vbvss199/leetCodeSolutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/vbvss199/leetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vbvss199/leetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vbvss199/leetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vbvss199/leetCodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vbvss199/leetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/vbvss199/leetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vbvss199/leetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/vbvss199/leetCodeSolutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/vbvss199/leetCodeSolutions/tree/master/0072-edit-distance) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/vbvss199/leetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vbvss199/leetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vbvss199/leetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0088-merge-sorted-array) |
