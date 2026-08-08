@@ -6,7 +6,6 @@ class Solution:
         # and one more check if the total amount of gas is leasser then cost return -1 immediately 
         if(sum(gas)<sum(cost)):
             return -1
-
         net_gas=0
         start=0
         for i in range(0,len(cost)):
