@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vbvss199/leetCodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vbvss199/leetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1400-construct-k-palindrome-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/1400-construct-k-palindrome-strings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vbvss199/leetCodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vbvss199/leetCodeSolutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vbvss199/leetCodeSolutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/vbvss199/leetCodeSolutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vbvss199/leetCodeSolutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vbvss199/leetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1400-construct-k-palindrome-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/1400-construct-k-palindrome-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vbvss199/leetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/vbvss199/leetCodeSolutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/vbvss199/leetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [1400-construct-k-palindrome-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/1400-construct-k-palindrome-strings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vbvss199/leetCodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vbvss199/leetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/vbvss199/leetCodeSolutions/tree/master/0860-lemonade-change) |
+| [1400-construct-k-palindrome-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/vbvss199/leetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/vbvss199/leetCodeSolutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Sliding Window
