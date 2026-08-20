@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vbvss199/leetCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vbvss199/leetCodeSolutions/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vbvss199/leetCodeSolutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0189-rotate-array) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vbvss199/leetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vbvss199/leetCodeSolutions/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vbvss199/leetCodeSolutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/vbvss199/leetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vbvss199/leetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vbvss199/leetCodeSolutions/tree/master/0692-top-k-frequent-words) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
@@ -773,4 +777,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/0402-remove-k-digits) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
