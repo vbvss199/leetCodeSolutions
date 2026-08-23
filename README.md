@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vbvss199/leetCodeSolutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vbvss199/leetCodeSolutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vbvss199/leetCodeSolutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vbvss199/leetCodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vbvss199/leetCodeSolutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/vbvss199/leetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0189-rotate-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vbvss199/leetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vbvss199/leetCodeSolutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/vbvss199/leetCodeSolutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/vbvss199/leetCodeSolutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/vbvss199/leetCodeSolutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/vbvss199/leetCodeSolutions/tree/master/0079-word-search) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vbvss199/leetCodeSolutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/vbvss199/leetCodeSolutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0136-single-number) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/vbvss199/leetCodeSolutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vbvss199/leetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
