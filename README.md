@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vbvss199/leetCodeSolutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vbvss199/leetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vbvss199/leetCodeSolutions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vbvss199/leetCodeSolutions/tree/master/0066-plus-one) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vbvss199/leetCodeSolutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vbvss199/leetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/vbvss199/leetCodeSolutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/vbvss199/leetCodeSolutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/vbvss199/leetCodeSolutions/tree/master/0415-add-strings) |
