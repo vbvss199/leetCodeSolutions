@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/vbvss199/leetCodeSolutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/vbvss199/leetCodeSolutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vbvss199/leetCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vbvss199/leetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vbvss199/leetCodeSolutions/tree/master/0162-find-peak-element) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vbvss199/leetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vbvss199/leetCodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/vbvss199/leetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/vbvss199/leetCodeSolutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/vbvss199/leetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/vbvss199/leetCodeSolutions/tree/master/0146-lru-cache) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vbvss199/leetCodeSolutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vbvss199/leetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/vbvss199/leetCodeSolutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/vbvss199/leetCodeSolutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vbvss199/leetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/vbvss199/leetCodeSolutions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0179-largest-number) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vbvss199/leetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vbvss199/leetCodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/vbvss199/leetCodeSolutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/vbvss199/leetCodeSolutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vbvss199/leetCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vbvss199/leetCodeSolutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vbvss199/leetCodeSolutions/tree/master/0213-house-robber-ii) |
@@ -708,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/vbvss199/leetCodeSolutions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vbvss199/leetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/vbvss199/leetCodeSolutions/tree/master/0509-fibonacci-number) |
 ## Database
@@ -725,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vbvss199/leetCodeSolutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/vbvss199/leetCodeSolutions/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/vbvss199/leetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/vbvss199/leetCodeSolutions/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/vbvss199/leetCodeSolutions/tree/master/0792-number-of-matching-subsequences) |
@@ -791,4 +797,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vbvss199/leetCodeSolutions/tree/master/0164-maximum-gap) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vbvss199/leetCodeSolutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
